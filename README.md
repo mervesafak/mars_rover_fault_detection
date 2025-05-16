@@ -1,10 +1,9 @@
 ## Author
 
 Gülseren Merve Şafak  
-Student ID: u314441  
 Bachelor Thesis – 2025  
 Supervisor: Dr. Murat Kırtay
-# Anomaly Detection in Curiosity Rover Telemetry Using Deep Learning
+# Supervised Anomaly Detection in Mars Rover Telemetry Using Machine Learning and Deep Learning Models
 
 This repository contains the complete implementation and results of my bachelor thesis on supervised anomaly detection in Mars rover telemetry data. The aim of the project is to detect faults in spacecraft telemetry using sliding-window-based models trained on labeled time series from the MSL (Mars Science Laboratory) (Hundman et al., 2018) dataset.
 
